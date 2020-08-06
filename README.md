@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/talha-kerpicci-b75a91170/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/onurozv/)
 ![GitHub followers](https://img.shields.io/github/followers/onurozbk?style=social)
 
 My name is **[Onur OZBEK](https://www.linkedin.com/in/onurozv/)**. I study Computer Engineering at Doğuş University in Turkey. 
