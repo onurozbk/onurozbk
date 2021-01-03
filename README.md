@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/onurozv/)
 ![GitHub followers](https://img.shields.io/github/followers/onurozbk?style=social)
