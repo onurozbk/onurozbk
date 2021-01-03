@@ -6,9 +6,6 @@
 My name is **[Onur OZBEK](https://www.linkedin.com/in/onurozv/)**. I study Computer Engineering at Doğuş University in Turkey. 
 
 ## ⚡ Technolgies & Tools
-<!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=26A65B)-->
-
-
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -34,19 +31,3 @@ My name is **[Onur OZBEK](https://www.linkedin.com/in/onurozv/)**. I study Compu
 </a>
 
 
-
-<!--
-**N1ght-Fury/N1ght-Fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔧
--->
