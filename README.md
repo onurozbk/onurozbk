@@ -16,7 +16,7 @@ My name is **[Onur OZBEK](https://www.linkedin.com/in/onurozv/)**. I study Compu
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Gitlab](https://img.icons8.com/color/30/gitlab.png)
-![Git](https://img.icons8.com/color/30/git.png)
+![Git](https://img.icons8.com/ios-filled/30/github.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![VS](https://img.icons8.com/color/30/visual-studio.png)
 ![VueJS](https://img.icons8.com/color/30/vue-js.png)
